@@ -80,7 +80,7 @@ public class login {
     }
     public static String getPassword() {
         //stuff
-        return ""; //I'm hiding my password
+        return ""; //I'm hiding my password!
     }
 
     public static void main(String[] args) throws Exception {
